@@ -1,0 +1,5 @@
+! Test rules to block the websites below
+
+||netflix.com^
+||tiktok.com^
+||instagram.com^
